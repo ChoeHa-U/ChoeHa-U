@@ -12,7 +12,3 @@
 
 ---
 
-### 📊 GitHub Stats
-![ChoeHa-U's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoeHa-U&show_icons=true&theme=radical&hide_border=true)
-
----
