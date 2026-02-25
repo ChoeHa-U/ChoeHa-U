@@ -1,7 +1,7 @@
 <div align="center">
 
-# **ALEN SONY**
-### **UI Designer | Trynna Code**
+# **ALEN SONY (ChoeHa-U)**
+### **UI Designer | Trying to Code**
 
 ---
 
