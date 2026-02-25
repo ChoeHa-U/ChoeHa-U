@@ -1,7 +1,7 @@
 <div align="center">
 
 # **ALEN SONY (ChoeHa-U)**
-### **UI Designer | Trying to Code**
+### **Novice UI Designer | Trying to Code**
 
 ---
 
