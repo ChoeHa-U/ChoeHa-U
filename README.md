@@ -1,15 +1,13 @@
 <div align="center">
 
 # **ALEN SONY**
-### **UI Designer | Full-Stack Developer**
-*Turning designs into code, one pixel at a time.*
+### **UI Designer | Trynna Code**
 
 ---
 
-### **My Toolbox**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,kotlin,flutter,dart,css,html,php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=figma,kotlin,flutter,dart,css" />
 </p>
 
 ---
