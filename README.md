@@ -1,13 +1,19 @@
-# Hola Soy Alen Sony aka ChoeHa-U
+<div align="center">
 
-### UI Designer | trynna code.
-
----
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+# **ALEN SONY**
+### **UI Designer | Full-Stack Developer**
+*Turning designs into code, one pixel at a time.*
 
 ---
 
+### **My Toolbox**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,kotlin,flutter,dart,css,html,php,laravel,mysql" />
+</p>
+
+---
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alensony@outlook.com)
+
+</div>
