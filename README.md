@@ -23,9 +23,9 @@ h student | Passionate about UI/UX & Mobile Development*
 
 | Project | Description | Tech |
 |--------|-------------|------|
-|  *Project Name* | Short description of what it does | Flutter / Kotlin |
-|  *UI Design* | A UI concept or design mockup | Figma |
-|  *Mini Website* | A small web project | CSS / HTML |
+|  *Open D Life* | A wellness app | Kotlin / Jetpack Compose |
+|  *Breathe UI Design Concept* | A UI concept or design mockup | Figma |
+|  *x* | A small wellness app | Kotlin / Jetpack Compose |
 
 > Replace the above with your actual projects and link them!
 
