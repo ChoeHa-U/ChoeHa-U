@@ -26,18 +26,10 @@ Passionate about UI/UX & Mobile Development
 
 ### Projects
 
-<table>
-  <tr>
-    <td><strong>Open D Life</strong></td>
-    <td>A wellness app</td>
-    <td>Kotlin · Jetpack Compose</td>
-  </tr>
-  <tr>
-    <td><strong>Breathe UI Concept</strong></td>
-    <td>Wellness space with Neumorphism design</td>
-    <td>Figma</td>
-  </tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| Open D Life | A wellness app | Kotlin · Jetpack Compose |
+| Breathe UI Concept | Wellness space with Neumorphism design | Figma |
 
 ---
 
