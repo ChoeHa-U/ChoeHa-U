@@ -30,11 +30,6 @@ ChoeHa-U@github
 </tr>
 </table>
 
-# **ALEN SONY (ChoeHa-U)**
-### Novice UI Designer · Trying to Code
-
-BSc Computer Science Graduate, Currently pursuing MCA |
-Passionate about UI/UX & Mobile Development
 
 # **ALEN SONY (ChoeHa-U)**
 ### Novice UI Designer · Trying to Code
