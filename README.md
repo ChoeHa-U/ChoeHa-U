@@ -23,8 +23,6 @@ ChoeHa-U@github
 
 <br>
 
-<img src="https://api.dicebear.com/7.x/anime/svg?seed=ChoeHaU&backgroundColor=b6e3f4" width="120" />
-
 # **ALEN SONY (ChoeHa-U)**
 ### Novice UI Designer · Trying to Code
 
