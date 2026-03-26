@@ -1,26 +1,28 @@
 <div align="center">
 
-<!---
-Show profile views
--->
+<!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pipi-bear&color=ffd3d9&style=for-the-badge">
-</p> <br>
-
-<p>
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
-
-```
-ChoeHa-U@github
--------------------------
-📜 Computer Science, fell in love with UI/UX, B.sc CS grad
-🌱 Working on open source solutions 
-💫 Languages: Kotlin, Flutter, Python 
-✏️ On going: Rust, C.
-🎵 Electronic, POP, Funk.
-```
 </p>
 
+<br>
+
+<!-- Centered profile image -->
+<p align="center">
+  <img src="profile_pic.jpg" width="140">
+</p>
+
+<br>
+
+```bash
+ChoeHa-U@github
+-------------------------
+:: Computer Science, fell in love with UI/UX, B.Sc CS grad
+:: Working on open source solutions 
+:: Languages  : Kotlin, Flutter, Python 
+:: On going   : Rust, C
+:: Music      : Electronic, POP, Funk
+```
 
 # **ALEN SONY (ChoeHa-U)**
 ### Novice UI Designer · Trying to Code
