@@ -8,13 +8,11 @@
 <br>
 
 <table>
-<tr>
-<td>
-
-<img src="./profile_pic.jpg" width="180">
-
-</td>
-<td>
+  <tr>
+    <td valign="top">
+      <img src="./profile_pic.jpg" width="180">
+    </td>
+    <td valign="top">
 
 ```bash
 ChoeHa-U@github
@@ -24,11 +22,6 @@ ChoeHa-U@github
 :: Languages  : Kotlin, Flutter, Python 
 :: On going   : Rust, C
 :: Music      : Electronic, POP, Funk
-```
-
-</td>
-</tr>
-</table>
 
 
 # **ALEN SONY (ChoeHa-U)**
