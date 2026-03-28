@@ -3,13 +3,11 @@
 <table>
 <tr>
 <td valign="top">
-
-<img src="./profile_pic.jpg" width="180">
-
+  <img src="./profile_pic.jpg" width="180">
 </td>
-<td valign="top">
+<td valign="top" align="left">
 
-<pre>
+<pre style="text-align: left;">
 ChoeHa-U@github
 -------------------------
 :: Computer Science, fell in love with UI/UX, B.Sc CS grad
