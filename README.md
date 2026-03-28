@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="./header.svg" width="600" />
+<img src="./header.svg" width="850" />
 
 <br>
 
 # **ALEN SONY (ChoeHa-U)**
 ### Novice UI Designer · Trying to Code
 
-BSc Computer Science Graduate, Currently pursuing MCA |
+BSc Computer Science Graduate, Currently pursuing MCA | 
 Passionate about UI/UX & Mobile Development
 
 ---
 
 ### Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,kotlin,flutter,dart,css" />
 </p>
 
 ### Currently Learning
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,c" />
 </p>
@@ -25,6 +27,7 @@ Passionate about UI/UX & Mobile Development
 ---
 
 ### Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | Open D Life | A wellness app | Kotlin · Jetpack Compose |
@@ -33,6 +36,7 @@ Passionate about UI/UX & Mobile Development
 ---
 
 ### Goals
+
 - Build polished mobile apps with great UI
 - Contribute to open source projects
 - Land a UI/UX or mobile dev internship
@@ -40,6 +44,7 @@ Passionate about UI/UX & Mobile Development
 ---
 
 ### Contact
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alensony@proton.me)
 
 </div>
