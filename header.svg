@@ -37,7 +37,6 @@
 
   <!-- Username -->
   <text x="232" y="87" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9d1d9">ChoeHa-U@github</text>
-  <br>
 
   <!-- Dash separator -->
   <text x="196" y="67" font-family="'Courier New', Courier, monospace" font-size="10" fill="#30363d" letter-spacing="2">- - - - - - - - - - - - - - - - - - - - -</text>
