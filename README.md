@@ -23,7 +23,7 @@ ChoeHa-U@github
 </tr>
 </table>
 <br>
-<div>
+
 # **ALEN SONY (ChoeHa-U)**
 ### Novice UI Designer · Trying to Code
 
@@ -31,7 +31,7 @@ BSc Computer Science Graduate, Currently pursuing MCA |
 Passionate about UI/UX & Mobile Development
 
 ---
-</div>
+
 ### Tech Stack
 
 <p align="center">
