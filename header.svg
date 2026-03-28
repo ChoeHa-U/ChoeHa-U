@@ -36,8 +36,7 @@
   <line x1="177" y1="20" x2="177" y2="180" stroke="#21262d" stroke-width="1"/>
 
   <!-- Username -->
-  <text x="196" y="52" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="bold" fill="#58d6f5" filter="url(#glow)">ChoeHa-U</text>
-  <text x="344" y="52" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="bold" fill="#8b949e">@github</text>
+  <text x="196" y="67" font-family="'Courier New', Courier, monospace" font-size="10" fill="#30363d" letter-spacing="2">choeha-u@github</text>
 
   <!-- Dash separator -->
   <text x="196" y="67" font-family="'Courier New', Courier, monospace" font-size="10" fill="#30363d" letter-spacing="2">- - - - - - - - - - - - - - - - - - - - -</text>
