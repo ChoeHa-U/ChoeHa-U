@@ -4,9 +4,9 @@
       <rect x="22" y="22" width="136" height="156" rx="10" ry="10"/>
     </clipPath>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#7c5cbf"/>
-      <stop offset="50%"  stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#7c5cbf"/>
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="50%"  stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
@@ -36,8 +36,7 @@
   <line x1="177" y1="20" x2="177" y2="180" stroke="#21262d" stroke-width="1"/>
 
   <!-- Username -->
-  <text x="196" y="52" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="bold" fill="#58d6f5" filter="url(#glow)">ChoeHa-U</text>
-  <text x="344" y="52" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="bold" fill="#8b949e">@github</text>
+  <text x="196" y="52" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9d1d9">ChoeHa-U@github</text>
 
   <!-- Dash separator -->
   <text x="196" y="67" font-family="'Courier New', Courier, monospace" font-size="10" fill="#30363d" letter-spacing="2">- - - - - - - - - - - - - - - - - - - - -</text>
