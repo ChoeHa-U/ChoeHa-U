@@ -1,6 +1,6 @@
 <div align="center">
 <br><br>
-<img src="./header.svg" width="650" />
+<img src="./profile_pic_BANNER.jpg" width="650" alt="Alen Sony Profile Banner" />
 
 <br>
 
