@@ -20,13 +20,13 @@
   <!-- Dark card body (1.5px inset = consistent border width on all sides) -->
   <rect x="1.5" y="1.5" width="647" height="197" rx="14.5" ry="14.5" fill="#0d1117"/>
 
-  <!-- Profile picture frame -->
-  <rect x="21" y="21" width="138" height="158" rx="11" ry="11"
-        fill="none" stroke="#21262d" stroke-width="1.5"/>
+<!-- Profile picture frame -->
+<rect x="21" y="21" width="138" height="158" rx="11" ry="11"
+      fill="none" stroke="#21262d" stroke-width="1.5"/>
 
-  <!-- Embedded profile photo -->
+<!-- Embedded profile photo -->
 <image
-  href="profile_pic.jpg"
+  href="https://raw.githubusercontent.com/ChoeHa-U/ChoeHa-U/main/profile_pic.jpg"
   x="22" y="22" width="136" height="156"
   preserveAspectRatio="xMidYMid slice"
   clip-path="url(#picClip)"
